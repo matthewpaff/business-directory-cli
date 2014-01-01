@@ -1,0 +1,1 @@
+{"description": "reject duplicate business IDs", "expected_error": true, "id": "directory-0000", "input": {"businesses": [{"category": "cafe", "city": "Town", "id": 1, "name": "Sample Cafe 0%"}, {"category": "cafe", "city": "Town", "id": 1, "name": "Sample Cafe 0%"}]}}
