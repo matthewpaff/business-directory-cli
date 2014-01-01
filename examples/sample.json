@@ -1,0 +1,23 @@
+{
+  "businesses": [
+    {
+      "id": 53,
+      "name": "Remote Cafe 5",
+      "city": "Elsewhere",
+      "category": "cafe"
+    },
+    {
+      "id": 52,
+      "name": "Book Shop 5",
+      "city": "Town",
+      "category": "books"
+    },
+    {
+      "id": 51,
+      "name": "Sample Cafe 5%",
+      "city": "Town",
+      "category": "cafe"
+    }
+  ],
+  "limit": 1
+}
